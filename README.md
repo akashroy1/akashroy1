@@ -1,5 +1,7 @@
-## Hi there , Akash here 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
+<h1 align="center">Hi 👋, I'm Akash Roy</h1>
+<h3 align="center">A passionate web developer from India</h3>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
 - 🔭 I’m currently learning Full Stack Web Development.
 - 🌱 I’m currently learning ReactJS
