@@ -4,7 +4,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
 - 🔭 I’m a Full Stack Web Developer.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently Exploring MERN Stack
 - 📫 Reach me here : royaku6@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't enjoy sleeping.
