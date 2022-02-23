@@ -3,7 +3,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
-- 🔭 I’m currently learning Full Stack Web Development.
+- 🔭 I’m a Full Stack Web Developer.
 - 🌱 I’m currently learning ReactJS
 - 📫 Reach me here : royaku6@gmail.com
 - 😄 Pronouns: He/Him
