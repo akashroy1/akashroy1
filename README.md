@@ -4,7 +4,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
 - 🔭 I’m a Full Stack Web Developer.
-- 🌱 I’m currently Exploring MERN Stack
+- 🌱 I’m currently persuing B.Tech in CSE from VIT Vellore
 - 📫 Reach me here : akash.roy2807@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't enjoy sleeping.
