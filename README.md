@@ -5,7 +5,7 @@
 
 - 🔭 I’m a Full Stack Web Developer.
 - 🌱 I’m currently Exploring MERN Stack
-- 📫 Reach me here : royaku6@gmail.com
+- 📫 Reach me here : akash.roy2807@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't enjoy sleeping.
 ### 🛠 &nbsp;Tech Stack
