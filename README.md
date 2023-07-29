@@ -42,7 +42,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![AkashRoy:: Profile Stats](https://github-readme-stats.vercel.app/api?username=akashroy1&show_icons=true&hide_border=true&theme=darke) | ![Akash Roy:: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy1&layout=compact&theme=react&hide_border=true)
+![AkashRoy:: Profile Stats](https://github-readme-stats.vercel.app/api?username=akashroy1&show_icons=true&hide_border=true&theme=dark) | ![Akash Roy:: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy1&layout=compact&theme=react&hide_border=true)
 
 ### 🌏 &nbsp;Find me elsewhere
 <p align='center'>
