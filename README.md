@@ -4,8 +4,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
 - 🔭 I’m a Full Stack Web Developer.
-- 🌱 I’m currently persuing B.Tech in CSE from VIT Vellore
-- 📫 Reach me here : akash.roy2807@gmail.com
+- 🌱 I’m currently pursuing B.Tech in CSE from VIT Vellore
+- 📫 Reach me here: akash.roy2807@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't enjoy sleeping.
 ### 🛠 &nbsp;Tech Stack
@@ -42,7 +42,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![AkashRoy:: Profile Stats](https://github-readme-stats.vercel.app/api?username=akashroy1&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Akash Roy:: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy1&layout=compact&theme=react&hide_border=true)
+![AkashRoy:: Profile Stats](https://github-readme-stats.vercel.app/api?username=akashroy1&show_icons=true&hide_border=true&theme=darke) | ![Akash Roy:: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashroy1&layout=compact&theme=react&hide_border=true)
 
 ### 🌏 &nbsp;Find me elsewhere
 <p align='center'>
