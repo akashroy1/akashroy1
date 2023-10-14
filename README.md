@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Roy</h1>
-<h3 align="center">Problem Solver || MERN Stack web developer </h3>
+<h3 align="center">Software Engineer || Problem Solver || MERN Stack Developer </h3>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akashroy1.akashroy1)
 
