@@ -57,4 +57,4 @@
 
 ### 🏅 &nbsp;Badges
 
-[![@rishabhco's Holopin board](https://holopin.io/api/user/board?user=akashroy1)](https://holopin.io/@akashroy1)
+[![An image of @akashroy1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashroy1)](https://holopin.io/@akashroy1)
